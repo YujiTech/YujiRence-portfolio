@@ -17,7 +17,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 
-![Portfolio Demo](./src/assets/images/ol0va.png) 
+![Portfolio Demo](./src/assets/images/olova.png) 
 
 ---
 
